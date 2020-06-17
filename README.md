@@ -8,3 +8,4 @@ Turn on the webcam or use an external camera source if you want and run the clas
 We can put a camera on a high place or on pole for the screeing of multiple people moving on roads.
 Results can be made better if you increase the number of train/test images and by making some variations.
 Grab the code and check it out yourself.
+![alt text](https://github.com/shalom217/Mask_Classifier/blob/master/WhatsApp%20Image%202020-05-17%20at%2023.02.05.jpeg)
