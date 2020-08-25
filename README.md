@@ -7,7 +7,7 @@ Wearing mask can reduce the spread of virus for more than 80 percent.
 # Classifier overview
 This classifier is built using CNN and detecting the faces using OpenCV.
 During the building, classifier has been trained on 552 train images and tested on 276 images in which the number of people wearing mask is 452 and people not wearing mask is 376.
-Accuracy of the model is 95% with the model checkpoint and 65% with the early stopping.
+Accuracy of the model(optimizer = 'adam') is 95% with the model checkpoint and 65% with the early stopping.
 
 # Dataset
 Dataset for this model is takken from google images.(Since i'm using less number of images so accuracy may vary but if number of images is increased then it would make the model robust.
